@@ -1,6 +1,6 @@
 # CryptoShare
 
-![Thumbnail](./docs/Showcase/Thumbnail.jpg)
+
 
 ![Screenshot](https://i.imgur.com/PyWvAun.png)
 
